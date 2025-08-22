@@ -14,7 +14,7 @@ Track important events with real-time countdowns.
 ❤️ **[Love Match Calculator](https://rkainfo.com/love-match-calculator/)**  
 Check fun compatibility between two names.
 
-🔢 **[Quick Maths Game](https://rkainfo.com/quick-maths-game/)**  
+🔢 **[Quick Maths Game](https://rkainfo.com/quick-maths-true-false-game/)**  
 Test your brain with true/false maths challenges.
 
 ✍️ **[Word Counter](https://rkainfo.com/word-counter/)**  
